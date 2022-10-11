@@ -15,12 +15,19 @@ table td {
     text-align: center;
 }
 
-.Titol {
+.horari {
     background-color: blue;
+    color:crimson;
+}
+
+.horarismx {
+    background-color: yellow;
+    color:rgb(83, 17, 30);
 }
 
 .dia {
     background-color: grey;
+    color:black;
 }
 
 .pati{
@@ -30,21 +37,30 @@ table td {
 
 .serveis {
     background-color:rgb(18, 90, 60);
+    color:chocolate;
 }
 
 .seguretat{
-    background-color: antiquewhite;
+    background-color: royalblue;
+    color:tomato;
 }
 
 .aplicacions{
     background-color:aquamarine;
-
+    color:brown;
 }
 
 .sistemes{
     background-color:bisque;
+    color:yellowgreen;
 }
 
 .eie{
     background-color:darkgray;
+    color:yellow
+}
+
+.web{
+    background-color: blue;
+    color:black;
 }
