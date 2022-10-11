@@ -1,8 +1,11 @@
+/* Simple web*/
 .imgperro{
     width:200px
     
 }
 
+
+/*Horari */
 table td {
     border: 1px solid;
     color:black
@@ -10,4 +13,38 @@ table td {
 
 .centro {
     text-align: center;
+}
+
+.Titol {
+    background-color: blue;
+}
+
+.dia {
+    background-color: grey;
+}
+
+.pati{
+    background-color:black;
+    color:white;
+}
+
+.serveis {
+    background-color:rgb(18, 90, 60);
+}
+
+.seguretat{
+    background-color: antiquewhite;
+}
+
+.aplicacions{
+    background-color:aquamarine;
+
+}
+
+.sistemes{
+    background-color:bisque;
+}
+
+.eie{
+    background-color:darkgray;
 }
