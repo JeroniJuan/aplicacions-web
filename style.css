@@ -23,10 +23,10 @@ table td {
 
 .horarismx {
     background-color: yellow;
-    color:rgb(83, 17, 30);
+    color:rgb(239 15 15);
 }
 
-td.hora {
+.hora {
     background-color: purple;
     color:rgb(57, 57, 255);
 }
