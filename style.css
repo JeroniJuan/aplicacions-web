@@ -20,9 +20,15 @@ table td {
     color:crimson;
 }
 
+
 .horarismx {
     background-color: yellow;
     color:rgb(83, 17, 30);
+}
+
+.hora{
+    background-color: purple;
+    color:darkblue;
 }
 
 .dia {
