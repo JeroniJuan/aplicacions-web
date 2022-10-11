@@ -26,9 +26,9 @@ table td {
     color:rgb(83, 17, 30);
 }
 
-.hora{
+td.hora {
     background-color: purple;
-    color:darkblue;
+    color:rgb(57, 57, 255);
 }
 
 .dia {
