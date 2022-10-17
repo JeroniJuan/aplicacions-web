@@ -1,11 +1,11 @@
-/* Simple web*/
+/*-----------------------Simple web-----------------------*/
 .imgperro{
     width:200px
     
 }
 
 
-/*Horari */
+/*-----------------------Horari-----------------------*/
 table td {
     border: 1px solid;
     color:black
@@ -70,3 +70,40 @@ table td {
     background-color: blue;
     color:black;
 }
+
+
+/*----------------------------FLEX HORARI---------------------------------*/
+
+.flex-container-horari{
+    border:1px solid black;
+    padding:20px;
+    display:flex;
+    width:800px;
+    height:800px;
+    background-color: blanchedalmond;
+}
+
+.Box{
+    border:1px solid black;
+    text-align:center;
+}
+
+.TitolHorari{
+    line-height:100px;
+    width:100px;
+    height:100px;
+    background-color:rgb(165, 155, 155);
+}
+
+.SMX{
+    line-height:50px;
+    width:400px;
+    height:50px;
+    background-color:wheat;
+}
+
+.Dies{
+    width:57px;
+    
+}
+
