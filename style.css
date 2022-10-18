@@ -130,7 +130,7 @@ table td {
     border:1px solid black;
 }
 
-.Container-hora{
+.container-hora{
     display:flex;
     flex-direction:column;
     border:1px solid black;
